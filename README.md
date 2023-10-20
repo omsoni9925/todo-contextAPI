@@ -64,4 +64,4 @@ The app uses local storage to save your tasks. Your tasks will persist even afte
 
 ## Images
 
-![Todo App Screenshot 1]()
+![Todo App Screenshot 1](src/Screenshot 2023-10-20 132918.png)
