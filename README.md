@@ -28,7 +28,7 @@ Follow these instructions to get the project up and running on your local machin
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/react-todo-app.git
+   git clone https://github.com/omsoni9925/todo-contextAPI.git
    ```
 
 2. Change to the project directory:
