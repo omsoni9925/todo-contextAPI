@@ -34,7 +34,7 @@ Follow these instructions to get the project up and running on your local machin
 2. Change to the project directory:
 
    ```sh
-   cd react-todo-app
+   cd todo-contextAPI
    ```
 
 3. Install the dependencies:
